@@ -9,9 +9,11 @@ The pourpose of this project is to upload and analyze testing data for a school 
 The data analysed herein is based on school and student csv files in the resources folder of the lined repository. An analysis was performed of the entire school district and presented below.  
 
 ![image](https://user-images.githubusercontent.com/95301484/150464427-5058a347-39ee-4ac4-a71b-9e7bb0de618f.png)
+
 Then an analysis was performed on an individual school basis and can be seen below.
 
 ![per_school_summary ](https://user-images.githubusercontent.com/95301484/150464805-bcde9807-f251-4a5d-b3e2-ae3613041dac.png)
+
 As previously noted, the test results for Thomas High School's 9th graders were are in question so the results were removed from the analysis. This analysis was repeated and presented below.  
 
 ![per_school_summary -9THS](https://user-images.githubusercontent.com/95301484/150464955-bb5eea0d-df1b-48fb-9b95-e0b4551229ee.png)
@@ -42,5 +44,10 @@ Results were close between the medium and small size schools.
 Charter schools performed better across all categories than district schools. 
 
 #Summary
+Four changes that were made by removing the Thomas High School 9th grade reading and math scores were:
+The percent passing math increased for Thomas High School
+The percent passing reading increased for Thomas High School
+The Overall passing percent increased for Thomas High School
+Thomas High School went from the bottom 5 in school performance to top 5
 
 
